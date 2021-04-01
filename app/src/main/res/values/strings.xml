@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KingGame</string>
+    //for first screen
+    <string name="zero">0</string>
+    <string name="i">i</string>
+    <string name="level_one">Level 1</string>
+    <string name="hundred">100</string>
+    <string name="next">Next</string>
+</resources>
